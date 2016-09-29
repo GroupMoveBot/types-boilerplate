@@ -1,0 +1,6 @@
+/.vscode/
+/src/
+.editorconfig
+.gitignore
+.npmignore
+tsconfig.json
