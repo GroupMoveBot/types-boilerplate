@@ -1,2 +1,2 @@
 # ts-boilerplate
-Blank project directory for TypeScript/Mocha/Chai projects.
+Boilerplate for TypeScript type definitions projects.
